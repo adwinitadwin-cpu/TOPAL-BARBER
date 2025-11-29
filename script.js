@@ -78,7 +78,7 @@ document.addEventListener('DOMContentLoaded', () => {
             
             // FORM
             'form-name': "Ваше ім'я",
-            'form-phone': 'Телефон (наприклад, +420...)',
+            'form-phone': 'Телефон (наприклад, +420 728 916 163)',
             'form-service-select': '-- Оберіть послугу --',
             'form-date': 'Бажана дата',
             'form-time': 'Час',
@@ -165,7 +165,7 @@ document.addEventListener('DOMContentLoaded', () => {
             
             // FORM
             'form-name': 'Vaše jméno',
-            'form-phone': 'Telefon (např. +420...)',
+            'form-phone': 'Telefon (např. +420 728 916 163)',
             'form-service-select': '-- Vyberte službu --',
             'form-date': 'Preferované datum',
             'form-time': 'Čas',
@@ -379,4 +379,5 @@ document.addEventListener('DOMContentLoaded', () => {
             // реальна логіка відправки даних на сервер (fetch API)
         });
     }
+
 });
